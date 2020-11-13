@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SciTechnol</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_share">Share</string>
+    <string name="medical_sciences">Medical Sciences</string>
+    <string name="scientific_journals">Journals by Subject</string>
+    <string name="full_text">Full Text</string>
+    <string name="pdf">PDF</string>
+    <string name="Abstract">Abstract</string>
+    <string name="current_issue_highlights">Recent Publications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dasboard">DasboardActivity</string>
+
+
+    <string name="journal_home_tab">Journal Home</string>
+    <string name="in_press_tab">In Press</string>
+    <string name="current_issue_tab">Current Issue</string>
+    <string name="archive_tab">Archive</string>
+    <string name="submit_manuscript">Submit ManuScript</string>
+    <string name="instruct_authors">Instructions for Authors</string>
+    <string name="special_issues">Special Issues</string>
+    <string name="editorial_board">Editorial Board</string>
+    <string name="contact_us">Contact</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="no_data_inpress">This section will have articles which are temporarily under production. The final version of the articles will be released soon with final formatting and specific issue numbers</string>
+    <string name="published_date">Published Date:</string>
+    <string name="received_date">Received Date:</string>
+    <string name="enter_email">Enter Email*</string>
+    <string name="enter_phone_number">Enter Phone Number*</string>
+    <string name="enter_message">Enter Message*</string>
+    <string name="submit">Submit</string>
+    <string name="enter_first_name">Enter First Name*</string>
+    <string name="enter_last_name">Enter Last Name*</string>
+    <string name="website">www.scitechnol.com</string>
+    <string name="brussels_belgium">40 Bloomsbury Way\nLower Ground Floor\nLondon, United Kingdom\nWC1A 2SE</string>
+    <string name="info_longdom_org">contact@scitechnol.com</string>
+    <string name="_34_911_877_608">+44-203-769-1765</string>
+
+    <string-array name="categoryList">
+        <item selected="selected" value="">--Select Category *--</item>
+        <item value="Professor">Professor</item>
+        <item value="Student">Student</item>
+        <item value="Researcher">Researcher</item>
+        <item value="Medical professional/Practitioner">Medical professional/Practitioner</item>
+        <item value="Librarian">Librarian</item>
+        <item value="Sponsorship">Sponsorship</item>
+        <item value="Publisher/Journalist">Publisher/Journalist</item>
+        <item value="Reprints agent/Bookseller">Reprints agent/Bookseller</item>
+        <item value="Other">Other</item>
+    </string-array>
+
+    <string-array name="departmentList">
+        <item selected="selected" value="">--Select Department *--</item>
+        <item value="OpenAccess Publication Fee">OpenAccess Publication Fee</item>
+        <item value="Author Proof">Author Proof</item>
+        <item value="Technical">Technical</item>
+        <item value="Conference Registration">Conference Registration</item>
+        <item value="Conference Exhibition">Conference Exhibition</item>
+        <item value="Sponsorship Opportunities at OMICS Group Conferences">Sponsorship
+            Opportunities at OMICS Group Conferences
+        </item>
+        <item value="Other">Other</item>
+    </string-array>
+</resources>
